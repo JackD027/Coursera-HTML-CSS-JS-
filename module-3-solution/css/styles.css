@@ -1,13 +1,13 @@
 body {
 	font-size: 16px;
 	color: white;
-	background-color: #8243d6;
+	background-color: #43b6d6;
 	font-family: 'Lobster', cursive;
 }
 
 /* HEADER */
 #header-nav {
-	background-color: #530fad;
+	background-color: #4385d6;
 	border-radius: 0;
 	border: 0;
 	color: white;
@@ -28,7 +28,7 @@ body {
 }
 
 #nav-list a:hover {
-	background-color: #8243d6;
+	background-color:#43b6d6;
 }
 /* END HEADER */
 
